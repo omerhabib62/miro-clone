@@ -1,5 +1,6 @@
-[miro-clone]: Learning about frontend using NextJs(ReactJS) and Tailwind
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Miro Clone
+
+Learning frontend using [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
