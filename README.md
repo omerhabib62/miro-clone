@@ -1,6 +1,6 @@
 # Miro Clone
 
-Learning frontend using [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Learning frontend using [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Source of ['Miro Clone'](https://www.youtube.com/watch?v=ADJKbuayubE) tutorial.
 
 ## Getting Started
 
